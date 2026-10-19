@@ -1,0 +1,5 @@
+source: Open Vanilla
+commit: 747fdbd649467a990e194c57f04b516e39524431
+subject: Site: portal.html matches index.html again (alpha tag, Vanilla Agents)
+paths: devkit, tests, packaging/workflows/devkit.yml, packaging/workflows/loadgate.yml
+Made by dev/sync_repos.py. Edit the source, not this copy.
